@@ -1,5 +1,10 @@
 # Chat Flutter App
 
+### Authentication & Logout Functionality using Provider and Firebase.
+### Stream Data with StreamBuilder.
+### Push Notifications.
+### Firebase Cloud Messaging
+
 #### Packages:
 - firebase_core
 - cloud_firestore
